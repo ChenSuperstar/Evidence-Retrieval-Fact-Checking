@@ -1,0 +1,2 @@
+
+SIMILARITY = 0.35
